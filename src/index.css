@@ -157,6 +157,7 @@ body {
 @media screen and (max-width: 590px) {
   .container .box {
     max-height: 200px;
+    gap: 30px;
     display: flex;
     position: unset;
     width: 100%;
